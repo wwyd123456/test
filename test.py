@@ -1,5 +1,5 @@
 import tkinter
-print("hello")
+print("hello bug correct")
 
 tk = tkinter.Tk( )
 tk.mainloop()
